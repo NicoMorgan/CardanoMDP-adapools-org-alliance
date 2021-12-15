@@ -652,6 +652,11 @@
                 "pool_id": "1ae768c8f263ddf7804a91cc0ade84cddfc63a2697a274a3fa762b0c",
                 "member_since": "2021-11-12",
                 "name": "[MOKUM] Mokum Stake Pool"
+	    },
+	          "126": {
+                "pool_id": "b9147445047312aa139a331390bba715eebb58f1b66c96e660e48986",
+                "member_since": "2021-12-15",
+                "name": "[BLU] ADABLUE Stake Pool"
             }
         }
     }
